@@ -7,3 +7,4 @@ Feel free to reach out to any of us if you have questions about the community!
 
 ## WebbieHub Members
 <!-- [![{GH-USERNAME}](https://avatars.githubusercontent.com/{GH-USERNAME}?size=100)](https://github.com/{GH-USERNAME}) -->
+[![antfu](https://avatars.githubusercontent.com/antfu?size=100)](https://github.com/antfu)

@@ -7,9 +7,7 @@ To introduce yourself to WebbieHub and start your open source journey, follow th
 1. Find the commented out code at the start of the WebbieHub Members section
 1. Copy that code and paste it below
 1. Replace the following tags with your information
-    * \<GH-USERNAME\>: Your GitHub username
-    * \<YOUR-NAME-HERE\>: Your name
-    * \<YOUR-FAVOURITE-QUOTE-HERE\>: Any quote you like
+    * {GH-USERNAME}: Your GitHub username
 ### Merging your changes
 1. Stage, Commit, and Push your changes to your new branch
 1. Find your fork on github again

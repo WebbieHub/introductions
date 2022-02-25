@@ -4,4 +4,4 @@ Here you can find all of our wonderful contributors. Check out [CONTRIBUTING.md]
 [![JLambertazzo](https://avatars.githubusercontent.com/JLambertazzo?size=100)](https://github.com/JLambertazzo)
 
 ## WebbieHub Members
-<!-- [![JLambertazzo](https://avatars.githubusercontent.com/JLambertazzo?size=100)](https://github.com/JLambertazzo) -->
+<!-- [![{GH-USERNAME}](https://avatars.githubusercontent.com/{GH-USERNAME}?size=100)](https://github.com/{GH-USERNAME}) -->

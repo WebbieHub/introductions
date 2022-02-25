@@ -5,5 +5,5 @@
 <br>
 
 ### A place for members and executives to make their first pull requests and introduce themselves to the community
-### See [CONTRIBUTORS.md]() for all our wonderful contributors
-### See [CONTRIBUTING.md]() to learn how to contribute your own intro
+### See [CONTRIBUTORS.md](https://github.com/WebbieHub/introductions/blob/main/CONTRIBUTORS.md) for all our wonderful contributors
+### See [CONTRIBUTING.md](https://github.com/WebbieHub/introductions/blob/main/CONTRIBUTING.md) to learn how to contribute your own intro

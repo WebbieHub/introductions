@@ -1,8 +1,7 @@
 # Contributors
 Here you can find all of our wonderful contributors. Check out [CONTRIBUTING.md](https://github.com/WebbieHub/introductions/blob/main/CONTRIBUTING.md) to introduce yourself!
 ## Web Dev Executives
-![JLambertazzo](https://avatars.githubusercontent.com/JLambertazzo?size=100)
-*Caption*
+![JLambertazzo](https://avatars.githubusercontent.com/JLambertazzo?size=100)*Caption*
 
 ## WebbieHub Members
 <div style="display:flex;flex-wrap:wrap">
